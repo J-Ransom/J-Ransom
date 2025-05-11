@@ -87,10 +87,11 @@
 
 [![Email](https://img.shields.io/badge/Email-%20JRansom_91@outlook.com-F54B1A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JRansom_91@outlook.com)
 &nbsp;
-<a href="[https://www.linkedin.com/in/jake-l-ransom/](https://www.linkedin.com/in/jake-ransom-7299b9236/)">
+<a href="https://www.linkedin.com/in/jake-ransom-7299b9236/">
   <img src="https://img.shields.io/badge/LinkedIn-Jake Ransom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
 </div>
+
 
 <!-- Thanks for stopping by! -->
