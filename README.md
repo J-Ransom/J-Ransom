@@ -29,13 +29,15 @@
 ## 🚀 Highlight Projects
 | Project | What it does | Tech Stack |
 |---------|-------------|------------|
-| **Equity Comparison System** | A multi-agent system that uses the LlamaIndex framework for agent orchestration and Pydantic models for data validation. It leverages GPT Vision for chart pattern recognition and parses earnings-call transcripts for behavioral signals. By combining these outputs with fundamental and technical metrics, it generates a comprehensive comparison. | Python, LangChain/LlamaIndex, OpenAI & Vision LLMs, Pydantic, FastAPI |
+
 | **Beyond the Benchmark** | An analysis that benchmarks the prediction accuracy of the CAPM and Fama French factors against Random Forest, Gradient Boosting, and Neural Network regressors within GICS sectors. Used K-fold CV for training with a holdout test subset to prevent overfitting. Employed a combination of randomsearch and girdsearch to optimize hyper parameter tuning. . | scikit-learn, statsmodels, pandas, NumPy |
-| **Performance Analytics Dashboard** | Streaming dashboard for portfolio performance KPIs (α, Sharpe, Sortino, tracking error, Expense), executes Monte-Carlo VaR/CVaR simulations, pushes volatility alerts, and delivers sector and multi-factor attribution analysis for risk management | Python, Dash/Plotly |
-| **Economic Report Swarm** | Reinforcement-learning agents stream real-time macro signals across asset classes into an event-driven aggregator that publishes a macro outlook. | Swarms framework, RLlib, Kafka |
 | **Stock Pitch Competition** | Blended top-down macro context with bottom-up unit economics. Conducted channel checks by interviewing franchise operators and inspecting sites, converting insights into segmented revenue DCF models with scenario analysis and stochastic forecasts. Presentations to investment professionals refined my ability to defend assumptions and express clear investment theories. | Excel, Python (Monte Carlo), PowerPoint |
-| **DCF Analysis System** | An agent system that performs a DCF valuation with scenario analysis using LLM powered reasoning for growth rate assumptions along with a reverse DCF with sensitivity analysis to determine implied rates from the current equity price. | Python, swarms, pandas, NumPy, SciPy, Dash/Plotly |
+| **Performance Analytics Dashboard** | Streaming dashboard for portfolio performance KPIs (α, Sharpe, Sortino, tracking error, Expense), executes Monte-Carlo VaR/CVaR simulations, pushes volatility alerts, and delivers sector and multi-factor attribution analysis for risk management | Python, Dash/Plotly |
 | **Sector Rotation Pro** | Streamlit app using real time data for sector rotation analysis. It flags market regime shifts using Hurst exponents and volatility, visualizes sector leadership with interactive RRGs, runs Prophet-based scenario forecasts, and leverages PCA clustering, Granger causality, along with rolling correlation, beta, and skew. | Python, Streamlit, Prophet, scikit-learn |
+| **Economic Report Swarm** | Reinforcement-learning agents stream real-time macro signals across asset classes into an event-driven aggregator that publishes a macro outlook. | Swarms framework, RLlib, Kafka |
+| **Equity Comparison System** | A multi-agent system that uses the LlamaIndex framework for agent orchestration and Pydantic models for data validation. It leverages GPT Vision for chart pattern recognition and parses earnings-call transcripts for behavioral signals. By combining these outputs with fundamental and technical metrics, it generates a comprehensive comparison. | Python, LangChain/LlamaIndex, OpenAI & Vision LLMs, Pydantic, FastAPI |
+| **DCF Analysis System** | An agent system that performs a DCF valuation with scenario analysis using LLM powered reasoning for growth rate assumptions along with a reverse DCF with sensitivity analysis to determine implied rates from the current equity price. | Python, swarms, pandas, NumPy, SciPy, Dash/Plotly |
+
 
 ---
 
