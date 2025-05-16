@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Financial&nbsp;AI & ML&nbsp;Investment Systems Architect • Quantitative Finance Researcher • Data‑Driven Storyteller</em>
+  <em> Investment Researcher • Financial&nbsp;AI & ML&nbsp;Systems Architect • Data‑Driven Storyteller</em>
 </p>
 
 <p align="center">
