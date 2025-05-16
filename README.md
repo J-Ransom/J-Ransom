@@ -79,7 +79,7 @@
 
 ## ✨ Fun Facts
 - 🏆 **Forvis Accounting Analytics Competition** — 1st Place (2024)  
-- 🥈 **Stephens Inc. Stock Pitch** — Top 5 Finalist (2023)  
+- 🥈 **Stephens Inc. Stock Pitch** — 5th place finalist (2023)  - 3rd place finalist (2024)
 - 🗣️ **CMT Ambassador** to University of Arkansas (2024)  
 - 🌐 Co‑founded **Global Business & Markets**, served as CFO & Treasurer, and **AI Foundry** student orgs.  
 
